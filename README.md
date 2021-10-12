@@ -1,7 +1,7 @@
 # key-quiz
-[![Melpa Status](http://melpa.milkbox.net/packages/key-quiz-badge.svg)](http://melpa.milkbox.net/#/key-quiz)
+[![MELPA](https://melpa.org/packages/key-quiz-badge.svg)](https://melpa.org/#/key-quiz)
 [![Build Status](https://travis-ci.org/federicotdn/key-quiz.svg?branch=master)](https://travis-ci.org/federicotdn/key-quiz)
-![Melpa Status](https://img.shields.io/github/license/federicotdn/key-quiz.svg)
+![License](https://img.shields.io/github/license/federicotdn/key-quiz.svg)
 
 Key Quiz is a game for GNU Emacs (26+) where the player must type in key sequences corresponding to different Emacs commands, chosen at random.
 
